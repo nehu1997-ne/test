@@ -12,7 +12,7 @@ function Api() {
   //  console.warn("api data",userdata)
   return (
     <div className="api">
-      <h1> 2. Question Api call</h1>
+      <h1>Question 2. Api call fetch</h1>
 
       {/* {data.map((elem,ind) =>{
        <p>{elem.first_name}</p>
