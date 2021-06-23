@@ -46,10 +46,6 @@
     'Lucida Sans', Arial, sans-serif;
 }
 
-body {
-  background: black;
- 
-}
 .todo-app {
   display: flex;
   flex-direction: column;
